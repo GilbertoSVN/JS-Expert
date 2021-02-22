@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3fee6fea-52c1-49c9-862b-2ca744e21801",
+    "name": "Impala",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "9d8d91f7-7aa9-4692-a198-0ff0055051b5",
+    "name": "911",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]

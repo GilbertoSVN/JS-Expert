@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1c2ecc0c-d91f-4f8e-a5f6-dfabfce223c3",
+    "name": "Mustang",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "02379976-0a36-453b-928b-5f69b8e4053f",
+    "name": "Alpine",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "08fece53-0b57-4ccb-ae2b-67da49643f00",
+    "name": "Model T",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]
